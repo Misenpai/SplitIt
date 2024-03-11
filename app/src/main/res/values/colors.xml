@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="onboarding_background">#373A3F</color>
+    <color name="splitit_green">#18A582</color>
+    <color name="splitit_little_light_green">#1CC19F</color>
+    <color name="onboarding_layout_background">#212224</color>
+    <color name="hintcolor">#939393</color>
+    <color name="grey">#4F4F4F</color>
+</resources>
